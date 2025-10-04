@@ -1,5 +1,4 @@
 Overview
-This repository contains my implementation of **MLOps Assignment 1**.  
 The objective is to perform model training and testing using MLOps principles such as reproducibility, version control, and CI integration.
 
 Assignment Structure
