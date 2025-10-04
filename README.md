@@ -13,13 +13,13 @@ Assignment Structure
 Setup & Usage
 
 1. Clone repo and create venv
-```bash
-git clone https://github.com/<your-username>/mlops-assignment1-G24AI2076.git
-cd mlops-assignment1-G24AI2076
+clone this Repo and create a virtual environment in the folder and install requirements.
+````
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ````
+
 2. Run Decision Tree
 ````
 python train.py
