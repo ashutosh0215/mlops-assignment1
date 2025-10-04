@@ -1,4 +1,5 @@
 Overview
+
 The objective is to perform model training and testing using MLOps principles such as reproducibility, version control, and CI integration.
 
 Assignment Structure
@@ -11,8 +12,7 @@ Assignment Structure
 
 Setup & Usage
 
-1. Clone repo and create venv
-clone this Repo and create a virtual environment in the folder and install requirements.
+1. Clone this Repo and create a virtual environment in the folder and install requirements.
 ````
 python -m venv venv
 venv\Scripts\activate
